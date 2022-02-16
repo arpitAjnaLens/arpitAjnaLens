@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Vaishya
 - 👀 I’m interested in solving real world problems and buidling product for the masses.
-- 🌱 I’m currently learning Full stack development in AR.
+- 🌱 I’m currently learning Full stack development in AR/VR
 - 📫 You can reach me at arpit@ajnalens.com
 
 <!---
